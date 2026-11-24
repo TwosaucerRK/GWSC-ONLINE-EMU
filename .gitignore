@@ -1,0 +1,23 @@
+__pycache__/
+*.py[cod]
+
+# Runtime state
+accounts.json
+cloud-files/
+data/
+logs/
+*.log
+mpstats-modo.txt
+
+# Keys and certificates (templates are tracked)
+*.key
+!platform.key.example
+*.pem
+*.crt
+certs/*
+!certs/README.md
+
+# Local dumps
+tmp/
+*.bin
+*.save
