@@ -17,10 +17,7 @@ save endpoints.
 > every signed request answers `401`, and entering a session is not possible
 > with this base alone.
 >
-> The base targets build **2699** of the client. When a 3xxx build lands, parts
-> of the contract will be outdated; the method and the server structure are
-> reusable and meant to be updated, not frozen.
-
+> The base targets build **2699** of the client.
 ## What works
 
 - Ticket issuing (`auth.asmx/CreateTicketSc3`) with the full response document
