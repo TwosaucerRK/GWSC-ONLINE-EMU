@@ -53,8 +53,8 @@ save endpoints.
 ## How to clone
 
 ```bash
-git clone https://github.com/<your-username>/online-emu.git
-cd online-emu
+git clone https://github.com/TwosaucerRK/GWSC-ONLINE-EMU.git
+cd GWSC-ONLINE-EMU
 ```
 
 Then copy the templates and put your own data in (never commit the real ones):
